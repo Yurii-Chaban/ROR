@@ -10,33 +10,33 @@ names = [
   "Maxie Wilderman", "Kayden Mohr", "Devonte Skiles", "Tina Mante", "Heloise Mann"
 ]
 ```
-### 1
-Generate a hash.
-key will be a first name (except Miss, Dr.)
-value will be a second name
+#1
+###Generate a hash.
+###key will be a first name (except Miss, Dr.)
+###value will be a second name
 
-### 2
-Generate a hash.
-key will be a first letter of a first name
-value will be a second letter of a second name
+#2
+###Generate a hash.
+###key will be a first letter of a first name
+###value will be a second letter of a second name
 
-### 3
-Generate an array.
-elements will be all a uniq letters of first name and second name
-need to sort it in alphabetical order
-Example: 
+#3
+###Generate an array.
+###elements will be all a uniq letters of first name and second name
+###need to sort it in alphabetical order
+###Example: 
 ```
 ["Stuart Blanda", "Kaden Batz", "Cornell Durgan", "Mrs. Kieran Goldner"]
 ```
-will be 
+###will be 
 ```
 ['S', 'B', 'K', 'C', 'D', 'G']
 ```
 
-### 4
-Generate an array
-elements will stay in same position
-need to replace first name with second name
+#4
+###Generate an array
+###elements will stay in same position
+###need to replace first name with second name
 
 ```
 [].each {}
