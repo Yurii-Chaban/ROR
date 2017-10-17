@@ -16,7 +16,7 @@ hash = {
 }
 ```
 
-Need to find a count of keys which starts from "yes"
+Need to find a count of keys which starts from ```"yes"```
 
 #3
 

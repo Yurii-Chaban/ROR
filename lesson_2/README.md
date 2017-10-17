@@ -20,7 +20,7 @@ hash = {
 }
 ```
 
-Need to find a count of keys which starts from "yes"
+Need to find a count of keys which starts from ```"yes"```
 
 #3
 
@@ -78,20 +78,22 @@ names = [
 ```
 
 #1
-
-Create a hash "users"
+Create a hash ```"users"```
 Key will be an email
 Value will be an array with age and name
 
-#2
 
-Output a "users" hash who over 19 years old
+
+#2
+Output a ```"users"``` hash who over ```19``` years old
+
+
 
 #3
+Output a ```"users"``` hash sort order name
 
-Output a "users" hash sort order name
+
 
 #4
-
 Output an array with mail domains
 Example ```["marcus_strosin@nienow.org"] => ["nienow.org"]```
